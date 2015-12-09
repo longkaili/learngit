@@ -1,2 +1,5 @@
 this is a test file for github
-hehe 
+hehe
+push -u origin master 
+push origint master
+ 
